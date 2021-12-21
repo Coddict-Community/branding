@@ -1,19 +1,15 @@
 <h1 align="center">Coddict Branding Assets</h1>
 
----
-
 #### Community brand assets for the Coddict community
 
 ## About Coddict
----
 
 All coding related problems' solutions, career guidance, advices and tutorials in one place. Coddict offers you free mentorship for all things computer science and programming.
 
 ## Assets in the Repository
----
 
 | Resource |    Type   |  Dimension  | Preview |
-| :------: | :-------: | ----------: | :-----: |
+| :------: | :-------: | :---------: | :-----: |
 | Banner   | PNG       | 2000 x 600  | <a href="assets/Banner/2000 x 600.png"><img src="assets/Banner/2000 x 600.png" height="160px" /></a> |
 | Banner   | PNG       | 4000 x 1200 | <a href="assets/Banner/4000 x 1200.png"><img src="assets/Banner/4000 x 1200.png" height="160px" /></a> |
 | Banner   | PNG       | 6000 x 1800 | <a href="assets/Banner/6000 x 1800.png"><img src="assets/Banner/6000 x 1800.png" height="160px" /></a> |
