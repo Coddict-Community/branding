@@ -25,7 +25,7 @@ All coding related problems' solutions, career guidance, advices and tutorials i
   &nbsp
   <a href="https://www.linkedin.com/company/coddict-community/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   &nbsp
-  <a href="https://www.instagram.com/coddict_community/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.instagram.com/coddict_community/"><img src="https://img.shields.io/badge/-Instagram-c8c8c8?style=for-the-badge&logo=instagram" /></a>
   &nbsp
   <a href="https://twitter.com/Coddict_Comm"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" /></a>
 </p>
