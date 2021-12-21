@@ -1,6 +1,7 @@
+<img align="center" src="assets/Logo/500.png" height="100px"/>
 <h1 align="center">Coddict Branding Assets</h1>
 
-#### Community brand assets for the Coddict community
+_Community brand assets for the Coddict community_
 
 ## About Coddict
 
