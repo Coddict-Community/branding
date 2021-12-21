@@ -2,7 +2,7 @@
 
 _Community brand assets for the Coddict community_
 
-## About Coddict
+## About Coddict 🚀
 
 All coding related problems' solutions, career guidance, advices and tutorials in one place. Coddict offers you free mentorship for all things computer science and programming.
 
