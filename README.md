@@ -18,6 +18,13 @@ All coding related problems' solutions, career guidance, advices and tutorials i
 | Logo   | PNG       | 1500 x 1500 | <a href="assets/Logo/1500.png"><img src="assets/Logo/1500.png" height="100px" /></a> |
 | Logo   | PNG       | 500 x 500 | <a href="assets/Logo/500.png"><img src="assets/Logo/500.png" height="100px" /></a> |
 
+## Social
+
+[![Coddict on LinkedIn](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:contact.coddict@gmail.com)
+[![Coddict on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/coddict-community/)
+[![Coddict on Instagram](https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/coddict_community/)
+[![Coddict on Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Coddict_Comm)
+
 ## License
 
 [[MIT License](LICENSE)] Copyright (c) 2021 Coddict Community
