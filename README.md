@@ -1,4 +1,4 @@
-<center><img src="assets/Logo/500.png" height="100px"/></center>
+<p align="center"><img src="assets/Logo/500.png" height="100px"/></p>
 <h1 align="center">Coddict Branding Assets</h1>
 
 _Community brand assets for the Coddict community_
