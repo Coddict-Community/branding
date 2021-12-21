@@ -20,5 +20,5 @@ All coding related problems' solutions, career guidance, advices and tutorials i
 | Logo   | PNG       | 500 x 500 | <a href="assets/Logo/500.png"><img src="assets/Logo/500.png" height="160px" /></a> |
 
 ## License
----
-[MIT License](LICENSE) <br><br> Copyright (c) 2021 Coddict Community
+
+[[MIT License](LICENSE)] Copyright (c) 2021 Coddict Community
