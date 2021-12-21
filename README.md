@@ -20,11 +20,16 @@ All coding related problems' solutions, career guidance, advices and tutorials i
 
 ## Social
 
-[![Coddict on LinkedIn](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail)](mailto:contact.coddict@gmail.com)
-[![Coddict on LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/coddict-community/)
-[![Coddict on Instagram](https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram)](https://www.instagram.com/coddict_community/)
-[![Coddict on Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/Coddict_Comm)
-
+<p align="center">
+  <a href="mailto:contact.coddict@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c8c8c8?style=for-the-badge&logo=gmail" /></a>
+  &nbsp
+  <a href="https://www.linkedin.com/company/coddict-community/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  &nbsp
+  <a href="https://www.instagram.com/coddict_community/"><img src="https://img.shields.io/badge/-Instagram-orange?style=for-the-badge&logo=instagram" /></a>
+  &nbsp
+  <a href="https://twitter.com/Coddict_Comm"><img src="https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=twitter" /></a>
+</p>
+  
 ## License
 
 [[MIT License](LICENSE)] Copyright (c) 2021 Coddict Community
